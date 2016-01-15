@@ -10,7 +10,7 @@ New feature in V2 (in comming feature)
 Back-end development
 
 Diary system:
-      เป็นรับบ  เมื่อเวลาเราตอบคำถามในแต่ล่ะจังหวัดได้  จังหวัดนั้นจะถูกเพิ่มลงใน diary ของผู้เล่น
+      เป็นระบบ  เมื่อเวลาเราตอบคำถามในแต่ล่ะจังหวัดได้  จังหวัดนั้นจะถูกเพิ่มลงใน diary ของผู้เล่น
       ซึ่งผู้เล่นสามารถ มาดูเนื้อหาของคำตอบนั้นๆได้เลย
       
 Random questions system:
@@ -44,7 +44,7 @@ New design:
 
 knowledge from
 
-PHP language programming
-Bootstrap CSS and javascript library
-SQL language programming
-Jquery javascript library
+PHP language programming, 
+Bootstrap CSS and javascript library, 
+SQL language programming, 
+Jquery javascript library 
