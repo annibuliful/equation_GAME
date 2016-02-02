@@ -31,9 +31,11 @@ friend system:
       
 share question system:
       เป็นระบบที่ผู้เล่นสามารถเพิ่มโจทย์เข้ามาได้
-chat system:<font color="red">(not sure)</front>
+
+chat system:
       เป็นระบบที่สามารถคุยกันระหว่างเพื่อนได้
-group system:</h6><font color="red">(not sure)</front></h6>
+
+group system:
       ระบบกลุ่มเพิ่มแชร์ความรู้กันเฉพาะกลุ่ม
       
       
