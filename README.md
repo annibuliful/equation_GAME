@@ -11,7 +11,7 @@ New feature in V2 (in comming feature)
 
 <h2>Back-end development</h2>
 
-Diary system:<br>
+Diary system:
             เป็นระบบ  เมื่อเวลาเราตอบคำถามในแต่ล่ะจังหวัดได้  จังหวัดนั้นจะถูกเพิ่มลงใน diary ของผู้เล่น 
       ซึ่งผู้เล่นสามารถ มาดูเนื้อหาของคำตอบนั้นๆได้เลย
       
@@ -25,6 +25,16 @@ Mathematics content system:
 
 Level system:
       เป็นระบบที่สามารถให้ผู้เล่นเลือกระดับที่เหมาะสมกับตัวเองได้  
+      
+friend system:
+      เป็นระบบที่ผู้เล่นสามารถเพิ่มเพื่อนได้
+      
+share question system:
+      เป็นระบบที่ผู้เล่นสามารถเพิ่มโจทย์เข้ามาได้
+chat system:<font color="red">(not sure)</front>
+      เป็นระบบที่สามารถคุยกันระหว่างเพื่อนได้
+group system:</h6><font color="red">(not sure)</front></h6>
+      ระบบกลุ่มเพิ่มแชร์ความรู้กันเฉพาะกลุ่ม
       
       
 <h2>Front-end development</h2>
